@@ -1,2 +1,21 @@
 # RickAndMortyAPI
-A Rick and Morty API consume project built with React-Native CLI v0.71.10
+This project consumes an online free API about Rick and Morty with the objective to show in screen a list of characters with their details, including:
+
+* name
+* status (alive, dead or unknown)
+* gender
+* species
+* origin
+
+- Rick and Mory API site: https://rickandmortyapi.com/
+
+## Project built with default React-Native CLI :
+
+* Verion : 0.71.10
+
+## Project prints:
+
+
+
+## Developed by:
+### Lucas Marmitt Catarino
