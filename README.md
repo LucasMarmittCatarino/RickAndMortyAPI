@@ -25,5 +25,7 @@ Rick and Mory API site: https://rickandmortyapi.com/
 
 _The project was made based on a Pixel 4 emulator, which means you might notice something wrong with the style, since it's not responsive yet._
 
+__Note: To open the app, search for the project directory on the terminal, run the 'npm install' command and after installing the dependencies, run 'npx react-native start' to open the metro.__
+
 ## Developed by:
 ### Lucas Marmitt Catarino
