@@ -21,5 +21,7 @@ This project consumes an online free API about Rick and Morty with the objective
 ![5](https://github.com/LucasMarmittCatarino/RickAndMortyAPI/assets/111719511/d810aa60-455d-4bb4-9e7a-076d9b2e2d88)
 ![6](https://github.com/LucasMarmittCatarino/RickAndMortyAPI/assets/111719511/5873af17-a4db-4f1e-b81a-1b3ddc37caf8)
 
+_The project was made based on a Pixel 4 emulator, which means you might notice something wrong with the style, since it's not responsive yet.
+
 ## Developed by:
 ### Lucas Marmitt Catarino
